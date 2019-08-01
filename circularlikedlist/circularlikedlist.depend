@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1536166291 source:c:\users\dell\documents\code blocks\unt1\clg projets\datastructures\circularlikedlist\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1538571239 source:c:\users\dell\documents\code blocks\unt1\clg projets\datastructures\tail_recursion\main.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+

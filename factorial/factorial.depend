@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1536075820 source:c:\users\dell\documents\code blocks\unt1\clg projets\datastructures\factorial\main.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+

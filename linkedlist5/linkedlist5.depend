@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1535177415 source:c:\users\dell\documents\code blocks\unt1\clg projets\datastructures\linkedlist5\main.c
+	<stdio.h>
+	<conio.h>
+	<malloc.h>
+
